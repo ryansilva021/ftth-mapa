@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "CTO-01",
+        "capacidade": 16,
+        "ocupadas": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.7362, -22.3605]
+      }
+    }
+  ]
+}
