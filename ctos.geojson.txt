@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "name": "CTOs_Corrego_do_Ouro",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTO-CO-001",
+        "nome": "CTO Córrego do Ouro 01",
+        "tipo": "poste",
+        "capacidade": 16,
+        "ocupadas": 6,
+        "fabricante": "Furukawa",
+        "modelo": "FOSC-CTO-16",
+        "bairro": "Córrego do Ouro",
+        "cidade": "Macaé",
+        "status": "ativa",
+        "observacao": "Atende Rua Pedro Adami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.73625, -22.36048]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTO-CO-002",
+        "nome": "CTO Córrego do Ouro 02",
+        "tipo": "fachada",
+        "capacidade": 8,
+        "ocupadas": 8,
+        "fabricante": "Intelbras",
+        "modelo": "CTO-08",
+        "bairro": "Córrego do Ouro",
+        "cidade": "Macaé",
+        "status": "lotada",
+        "observacao": "Próximo ao córrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.73492, -22.36112]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTO-CO-003",
+        "nome": "CTO Córrego do Ouro 03",
+        "tipo": "poste",
+        "capacidade": 24,
+        "ocupadas": 10,
+        "fabricante": "Huawei",
+        "modelo": "ODF-CTO-24",
+        "bairro": "Córrego do Ouro",
+        "cidade": "Macaé",
+        "status": "ativa",
+        "observacao": "Reserva técnica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.73710, -22.35985]
+      }
+    }
+  ]
+}
